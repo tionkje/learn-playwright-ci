@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "pnpx serve .",
+    "serve": "pnpx serve src",
     "test": "playwright test"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@10.14.0",
+  "packageManager": "pnpm@10.18.3",
   "devDependencies": {
     "@playwright/test": "^1.56.0"
   }
